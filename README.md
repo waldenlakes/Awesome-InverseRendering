@@ -90,6 +90,9 @@ L:Lighting Estimation, G:Geometry Estimation, M:Material Estimation
 |2021|EGSR|[Material and Lighting Reconstruction for Complex Indoor Scenes with Texture-space Differentiable Rendering](http://rgl.epfl.ch/publications/NimierDavid2021Material) ||&#10003;||&#10003;|
 |2021|SIGGRAPH ASIA|[Generative Modelling of BRDF Textures from Flash Images](https://henzler.github.io/publication/neuralmaterial/)|[Code](https://github.com/henzler/neuralmaterial)||&#10003;|&#10003;|
 |2022|CVPR|[IRISformer: Dense Vision Transformers for Single-Image Inverse Rendering in Indoor Scenes](https://arxiv.org/abs/2206.08423)| [Code](https://github.com/ViLab-UCSD/IRISformer)|&#10003;|&#10003;|&#10003;|
+|2022|CVPR|[PhyIR: Physics-based Inverse Rendering for Panoramic Indoor Images](https://openaccess.thecvf.com/content/CVPR2022/papers/Li_PhyIR_Physics-Based_Inverse_Rendering_for_Panoramic_Indoor_Images_CVPR_2022_paper.pdf)| [Proj](https://lzleejean.github.io/PhyIR) / [Dataset](https://github.com/LZleejean/FutureHouse)|&#10003;|&#10003;|&#10003;|
+|2022|SIGGRAPH ASIA|[Learning-Based Inverse Rendering of Complex Indoor Scenes with Differentiable Monte Carlo Raytracing](https://arxiv.org/abs/2211.03017)| [Code](https://github.com/jingsenzhu/IndoorInverseRendering) / [Dataset](https://interiorverse.github.io/)|&#10003;|&#10003;|&#10003;|
+|2023|CVPR|[Multi-view Inverse Rendering for Large-scale Real-world Indoor Scenes](https://arxiv.org/abs/2211.10206)| [Proj](http://yodlee.top/TexIR/) / [Code] / [Dataset]|&#10003;|&#10003;|&#10003;|
 
 
 ## Portrait Relighting (DL)
