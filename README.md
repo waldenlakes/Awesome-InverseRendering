@@ -103,8 +103,24 @@ L:Lighting Estimation, G:Geometry Estimation, M:Material Estimation
 |2020|TOG|[Single Image Portrait Relighting via Explicit Multiple Reflectance Channel Modeling](https://dl.acm.org/doi/abs/10.1145/3414685.3417824)|[Dataset](https://sireer.github.io/projects/FLM_project/)|
 |2021|WACV|[Relighting Images in the Wild with a Self-Supervised Siamese Auto-Encoder](https://openaccess.thecvf.com/content/WACV2021/html/Liu_Relighting_Images_in_the_Wild_With_a_Self-Supervised_Siamese_Auto-Encoder_WACV_2021_paper.html)||
 |2021|CVPR|[Monocular Reconstruction of Neural Face Reflectance Fields](https://arxiv.org/abs/2008.10247)||
-|2021|SIGGRAPH|[Learning to Relight Portraits for Background Replacement](https://augmentedperception.github.io/total_relighting/)||
+|2021|SIGGRAPH|[Total Relighting: Learning to Relight Portraits for Background Replacement](https://dl.acm.org/doi/abs/10.1145/3450626.3459872)|[Proj](https://augmentedperception.github.io/total_relighting/)|
 |2021|ICCV|[Neural Video Portrait Relighting in Real-time via Consistency Modeling](https://zhanglongwen.com/projects/nvpr/)|[Code](https://github.com/ZoneLikeWonderland/Neural-Video-Portrait-Relighting-in-Real-time-via-Consistency-Modeling) / [Dataset](https://zhanglongwen.com/projects/nvpr/dataset.html)|
+|2022|CVPR|[Face Relighting with Geometrically Consistent Shadows](https://arxiv.org/abs/2203.16681)|[Code](https://github.com/andrewhou1/GeomConsistentFR) / [Dataset](https://drive.google.com/file/d/1Jh4a5zvx92NRjC5E_MyaKMbFymx2Iw9E/view?usp=sharing)|
+|2022|SIGGRAPH|[Learning to Relight Portrait Images via a Virtual Light Stage and Synthetic-to-Real Adaptation](https://dl.acm.org/doi/pdf/10.1145/3550454.3555442)|[Proj](https://deepimagination.cc/Lumos/) / [Dataset](https://drive.google.com/drive/folders/1lEW3No3U6P_KwKOimrytOEKL7N-jnbgz)|
+
+
+## Outdoor Relighting (DL)
+|Year|Pub|Paper|Repo|
+|:---:|:---:|:---:|:---:|
+|2022|SIGGRAPH|[NeuLighting: Neural Lighting for Free Viewpoint Outdoor Scene Relighting with Unconstrained Photo Collections](https://dl.acm.org/doi/abs/10.1145/3550469.3555384)||
+|2022|EGSR|[OutCast: Outdoor Single-image Relighting with Cast Shadows](https://arxiv.org/abs/2204.09341?context=cs.LG)|[Proj](https://dgriffiths.uk/outcast) / [Code](https://github.com/Jovp/fixupunet)|
+|2022|ECCV|[NeRF for Outdoor Scene Relighting](https://arxiv.org/abs/2112.05140)|[Proj](https://4dqv.mpi-inf.mpg.de/NeRF-OSR/) [Code](https://github.com/r00tman/NeRF-OSR) / [Dataset](https://nextcloud.mpi-klsb.mpg.de/index.php/s/mGXYKpD8raQ8nMk)|
+
+
+## Indoor Relighting (DL)
+|Year|Pub|Paper|Repo|
+|:---:|:---:|:---:|:---:|
+|2022|ECCV|[Physically-based Editing of Indoor Scene Lighting from a Single Image](https://arxiv.org/abs/2112.05140)|[Proj](https://jerrypiglet.github.io/publication/eccv2022-zhengqin/) [Code](https://github.com/ViLab-UCSD/IndoorLightEditing) / [Dataset](https://github.com/ViLab-UCSD/OpenRooms)|
 
 
 ## Dataset
