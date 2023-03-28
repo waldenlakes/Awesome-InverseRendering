@@ -15,6 +15,8 @@
 - [Inverse Rendering (non-DL)](#inverse-rendering-non-dl)
 - [Inverse Rendering (DL)](#inverse-rendering-dl)
 - [Portrait Relighting (DL)](#portrait-relighting-dl)
+- [Outdoor Relighting (DL)](#outdoor-relighting-dl)
+- [Indoor Relighting (DL)](#indoor-relighting-dl)
 - [Dataset](#dataset)
 
 ## Intrinsic Decomposition (non-DL)
