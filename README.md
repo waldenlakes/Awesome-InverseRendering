@@ -107,6 +107,7 @@ L:Lighting Estimation, G:Geometry Estimation, M:Material Estimation
 |2021|ICCV|[Neural Video Portrait Relighting in Real-time via Consistency Modeling](https://zhanglongwen.com/projects/nvpr/)|[Code](https://github.com/ZoneLikeWonderland/Neural-Video-Portrait-Relighting-in-Real-time-via-Consistency-Modeling) / [Dataset](https://zhanglongwen.com/projects/nvpr/dataset.html)|
 |2022|CVPR|[Face Relighting with Geometrically Consistent Shadows](https://arxiv.org/abs/2203.16681)|[Code](https://github.com/andrewhou1/GeomConsistentFR) / [Dataset](https://drive.google.com/file/d/1Jh4a5zvx92NRjC5E_MyaKMbFymx2Iw9E/view?usp=sharing)|
 |2022|SIGGRAPH|[Learning to Relight Portrait Images via a Virtual Light Stage and Synthetic-to-Real Adaptation](https://dl.acm.org/doi/pdf/10.1145/3550454.3555442)|[Proj](https://deepimagination.cc/Lumos/) / [Dataset](https://drive.google.com/drive/folders/1lEW3No3U6P_KwKOimrytOEKL7N-jnbgz)|
+|2023|CVPR|[LightPainter: Interactive Portrait Relighting with Freehand Scribble](https://arxiv.org/pdf/2303.12950.pdf)||
 
 
 ## Outdoor Relighting (DL)
