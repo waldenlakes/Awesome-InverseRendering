@@ -134,4 +134,4 @@ L:Lighting Estimation, G:Geometry Estimation, M:Material Estimation
 |2019|ICCV|[A Dataset of Multi-Illumination Images in the Wild](https://projects.csail.mit.edu/illumination/)|[Code](https://github.com/lmurmann/multi_illumination) / [Dataset](https://projects.csail.mit.edu/illumination/)|
 |2021|CVPR|[OpenRooms: An Open Framework for Photorealistic Indoor Scene Datasets](https://ucsd-openrooms.github.io/)|[Dataset](https://ucsd-openrooms.github.io/)|
 |2021|ICCV|[Hypersim: A Photorealistic Synthetic Dataset for Holistic Indoor Scene Understanding](https://arxiv.org/abs/2011.02523)|[Dataset](https://github.com/apple/ml-hypersim)|
- 
+|2023|ArXiv|[OpenIllumination: A Multi-Illumination Dataset for Inverse Rendering Evaluation on Real Objects](https://arxiv.org/abs/2309.07921)|[Dataset](https://oppo-us-research.github.io/OpenIllumination/)|
